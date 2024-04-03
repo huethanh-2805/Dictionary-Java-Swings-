@@ -14,7 +14,7 @@ Vào trang web: "https://toedter.com/jcalendar/" để tải thư viện jcalend
 - B4: Nháy phải chuột vào Project -> chọn "Clean and Build". Sau đó sẽ sinh ra thư mục "dist" chứa file .jar
 
 ### Chạy mã nguồn: 
-**-** Để chạy được mã nguồn đã biên dịch sẵn không cần IDE:**-**
+**-** Để chạy được mã nguồn đã biên dịch sẵn không cần IDE:** **
   + B1: Vào thư mục "Release" -> tại đây nháy phải chuột chọn "Open in Terminal" 
   + B2: Gõ lệnh "java -jar DictionarySystem.jar" và nhấn Enter
     
